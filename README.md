@@ -3,7 +3,6 @@
 This project is created as part of my **Embedded Systems training at Emertxe Institute, Bangalore**.  
 It is a simple command-line **Address Book Application** written in the C language.
 
----
 
 ## 🚀 Features
 - Add new contacts (Name, Phone, Email)
@@ -11,8 +10,7 @@ It is a simple command-line **Address Book Application** written in the C langua
 - Edit and delete existing contacts
 - Display all saved contacts
 - Save and load data using file handling
-
----
+  
 
 ## 🧰 Technologies Used
 - Language: **C**
@@ -20,7 +18,6 @@ It is a simple command-line **Address Book Application** written in the C langua
 - Compiler: **GCC**
 - IDE: **VS Code / Code::Blocks**
 
----
 
 ## 🧩 Project Structure
 📂 AddressBook-Project/
@@ -49,6 +46,7 @@ Enter new email: saurabh@gmail.com
 =================================================
 Contact added successfully.
 =================================================
+
 
 ## 👨‍💻 Author
 **Name:** Saurabh Chikane  
