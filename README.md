@@ -51,5 +51,5 @@ Contact added successfully.
 ## 👨‍💻 Author
 **Name:** Saurabh Chikane  
 **Institute:** Emertxe, Bangalore  
-**Email:** saurabhchikane@gmail.com  
+**Email:** saurabhchikane99@gmail.com  
 **GitHub:** [SPCHIKANE12](https://github.com/SPCHIKANE12)
